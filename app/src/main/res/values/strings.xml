@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Affirmations</string>
-    <string name="motto1">I am strong.</string>
-    <string name="motto2">I believe in myself.</string>
+    <string name="disco">Disco Elysium</string>
+    <string name="hollow">Hollow Knight</string>
     <string name="motto3">Each day is a new opportunity to grow and be a better version of myself.</string>
     <string name="motto4">Every challenge in my life is an opportunity to learn from.</string>
     <string name="motto5">I have so much to be grateful for.</string>
