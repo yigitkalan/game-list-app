@@ -6,16 +6,16 @@ import com.example.affirmations.model.Affirmation
 class Datasource {
     fun loadAffirmations(): List<Affirmation> {
         return listOf<Affirmation>(
-            Affirmation(R.string.motto1),
-            Affirmation(R.string.motto2),
-            Affirmation(R.string.motto3),
-            Affirmation(R.string.motto4),
-            Affirmation(R.string.motto5),
-            Affirmation(R.string.motto6),
-            Affirmation(R.string.motto7),
-            Affirmation(R.string.motto8),
-            Affirmation(R.string.motto9),
-            Affirmation(R.string.motto10)
+            Affirmation(R.string.disco, R.drawable.disco_elysium),
+            Affirmation(R.string.hollow, R.drawable.hollow_knight),
+            Affirmation(R.string.dark, R.drawable.dark_souls_3),
+            Affirmation(R.string.dead, R.drawable.dead_cells),
+            Affirmation(R.string.divinity, R.drawable.divinity),
+            Affirmation(R.string.elden, R.drawable.elden_ring),
+            Affirmation(R.string.hades, R.drawable.hades),
+            Affirmation(R.string.isaac, R.drawable.isaac),
+            Affirmation(R.string.skyrim, R.drawable.skyrim),
+            Affirmation(R.string.remnant, R.drawable.remnant)
         )
     }
 }

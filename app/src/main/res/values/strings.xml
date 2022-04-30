@@ -2,12 +2,12 @@
     <string name="app_name">Affirmations</string>
     <string name="disco">Disco Elysium</string>
     <string name="hollow">Hollow Knight</string>
-    <string name="motto3">Each day is a new opportunity to grow and be a better version of myself.</string>
-    <string name="motto4">Every challenge in my life is an opportunity to learn from.</string>
-    <string name="motto5">I have so much to be grateful for.</string>
-    <string name="motto6">Good things are always coming into my life.</string>
-    <string name="motto7">New opportunities await me at every turn.</string>
-    <string name="motto8">I have the courage to follow my heart.</string>
-    <string name="motto9">Things will unfold at precisely the right time.</string>
-    <string name="motto10">I will be present in all the moments that this day brings.</string>
+    <string name="dark">Dark Souls 3</string>
+    <string name="dead">DeadCells</string>
+    <string name="divinity">Divinity Original Sin 2</string>
+    <string name="elden">Elden Ring</string>
+    <string name="hades">Hades</string>
+    <string name="isaac">Binding Of Isaaac</string>
+    <string name="skyrim">Elder Scrolls V Skyrim</string>
+    <string name="remnant">Remnant Of Naezith</string>
 </resources>
