@@ -13,10 +13,8 @@ import com.example.affirmations.model.gameCardModel
 
 //Item adapter class is an adapter which holds ItemViewHolder as viewholder type
 class ItemAdapter(private val context : Context,
-                  private val dataList : List<gameCardModel>,
+                  private val dataList : List<gameCardModel>
                   ): RecyclerView.Adapter<ItemAdapter.CardViewHolder>(){
-
-
 
     class CardViewHolder(private val itemView : View) : RecyclerView.ViewHolder(itemView){
         val textView : TextView = itemView.findViewById(R.id.text_name)
